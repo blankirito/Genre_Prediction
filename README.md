@@ -1,4 +1,4 @@
-Genre Prediction
+# Genre Prediction
 
 A machine learning project that predicts movie and tv show genres from text descriptions using NLP.
 Designed to practice preprocessing, feature engineering, and model evaluation for text classification tasks
